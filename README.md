@@ -1,3 +1,5 @@
+![Anonymouses](app/src/main/ic_launcher-web.png)
+
 # Anonymouses
 
 Dealing with emotional crisis can be isolating, especially if you don’t have anyone close to you that can identify with your struggles. 
