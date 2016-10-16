@@ -40,7 +40,7 @@ public class Stories {
 
     public static final String STORY_14 = "I'm 23 and my problem is, when I look in the mirror, all I can see is ugliness.";
 
-    public static String MY_STORY = STORY_2;
+    public static String MY_STORY = STORY_10;
 
     private Stories() {
     }

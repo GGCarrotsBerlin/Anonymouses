@@ -57,7 +57,7 @@ public class HomeActivity extends AppCompatActivity implements TabLayout.OnTabSe
             startActivity(new Intent(this, StoryActivity.class));
         } else if (tabLayout.getSelectedTabPosition() == 1) {
             openConversation(view);
-        }else{
+        } else {
             startActivity(new Intent(this, StoryActivity.class)
                     .putExtra(StoryActivity.STORY, ((TextView) view).getText()));
         }
