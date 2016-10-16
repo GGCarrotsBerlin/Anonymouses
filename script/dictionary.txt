@@ -1,0 +1,52 @@
+#love/relationship
+love = Category('love', ['boyfriend' , 'broke , 'breakup' , 'crush' , 'date' , 'fight' , 
+						'fling' , 'flirt' , 'gay' , 'girlfriend' , 'husband' , 'kiss' , 
+						'lesbian' , 'love' , 'marry' , 'marriage' , 'relationship', 
+						'seduction' , 'sex' , 'single' , 'virgin' , 'wife'], 0)
+
+#depression/anxiety
+depression = Category('depression' , ['abuse' , 'alone', 'cry' , 'hurt ,  'lonely', 'pain' , 
+									'passive' , 'sad' , 'self-harm' , 'struggle' , 
+									'suicidal' , 'suicide' , 'tear' , 'tearful' , 
+									'unwell'], 0)
+
+#friends/social environment
+friends = Category('friends', ['boys' , 'connection', 'disappointment' , 'embarrassed' , 
+							'friend' , 'friends' , 'friendship' , 'girls' , 'jealous' , 
+							'lie' , 'roommates' , 'system'], 0)
+							
+#loss
+loss = Category('loss', ['accident' , 'dead' , 'die' , 'miss'], 0)
+
+
+#look/food/nutrition/weight/body awareness
+body = Category('body' ['body' , 'boobs' , 'breast' , 'diet' , 'fat' , 'food' , 'gain' , 
+					'healthy' , 'loose' , 'overweight' , 'ugliness' , 'ugly' , 'weight' , 
+					'skinny'], 0)
+
+
+#family
+family = Category('family', ['brother' , 'child' , 'children', 'dad' , 'daughter' , 
+							'family', 'father' , 'father-in-law' , 'kid' , 'kids' , 
+							'mother' , 'mother-in-law' , 'mum' , 'sister' , 'son'], 0)
+ 
+
+
+#job/school
+job = Category('job', ['busy' , 'burn' , 'job' , 'pressure , 'school' , 'stressed' ,
+					 'work'], 0)
+
+
+#drugs/addictions
+drugs = Category('drugs', ['addict' , 'alcohol' , 'crack' , 'drink' , 'ecstasy' , 'LSD' ,
+						 'medication' , 'weed'], 0)
+
+
+
+#health/physical
+health = Category('health', ['accident' , 'disability' , 'pain' , 'sickness' , 
+							'weak'], 0)
+
+
+
+#other
