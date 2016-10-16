@@ -9,9 +9,9 @@ of like-minded people, and giving you a place to journal your thoughts and feeli
 - those willing to share their stories and those who want to be heard. The app also features matching in order to be connected to 
 similar stories of people without social media filter and judgement.
 
-Team members : 
-Alicja Jablonska
-Jie Lin Chen
-Christian Frosch
-Dariusz Szatkowski
-Mohammad Homayonikia
+Team members :
+- Alicja Jablonska
+- Jie Lin Chen
+- Christian Schmitz
+- Dariusz Szatkowski
+- Mohammad Homayonikia
