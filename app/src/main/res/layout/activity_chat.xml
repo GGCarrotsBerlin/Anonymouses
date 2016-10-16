@@ -27,6 +27,6 @@
         android:enabled="false"
         android:gravity="center"
         android:padding="48dp"
-        android:text="This is a save environment, notbody will read your messages." />
+        android:text="This is a save environment, nobody will read your messages." />
 
 </android.support.design.widget.CoordinatorLayout>

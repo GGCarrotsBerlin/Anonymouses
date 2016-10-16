@@ -48,6 +48,7 @@ public class StoryActivity extends AppCompatActivity {
         if (textView.getText().length() > 0) {
             findViewById(R.id.story_only).setVisibility(View.VISIBLE);
             textView.setMovementMethod(ScrollingMovementMethod.getInstance());
+            setTitle(R.string.title_activity_story_only);
         } else {
             findViewById(R.id.story_edit).setVisibility(View.VISIBLE);
             editText.setSelection(Stories.MY_STORY.length());
